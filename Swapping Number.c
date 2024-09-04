@@ -1,9 +1,3 @@
-/*Roll no:101059
-PRN:1032230750
-STUDENT NAME: Chaitanya Parate
-Batch:A2
-LAB ASSIGNMENT NO 8: swapping of numbers using call by value and call by reference*/
-
 void swap(int,int);    
 void swap1(int*,int*);      
 #include<stdio.h>
